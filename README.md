@@ -328,7 +328,7 @@ external_load_balancer_ip = "51.250.78.32"
 
 4. (дополнительно)* Создать Application Load Balancer с использованием Instance group и проверкой состояния.
 
-### Общая конфигурация [Terraform](15-clokub-2-lb/terraform)
+### Общая конфигурация [Terraform](https://github.com/Valdem88/dev-17_kuber-homeworks-clopro-15.2-yakovlev_vs/tree/main/terraform)
 
 Полезные документы:
 
